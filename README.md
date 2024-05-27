@@ -11,7 +11,7 @@ This project presents an analysis of pizza sales data using a dashboard created 
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 - [Table Structure](#table-structure)
 - [SQL Queries](#sql-queries)
-- [License](#license)
+
 
 ## Overview
 The Pizza Sales Analysis Dashboard is designed to help understand the sales patterns and trends of a pizza shop. The key metrics and visualizations included in the dashboard are:
