@@ -218,8 +218,5 @@ The data is stored in a table named `pizza_sales` with the following columns:
 ## SQL Queries
 The SQL queries used for retrieving data are stored in the Mysql DataBase. Please refer to the `pizza query's_1st project.sql` file in the repository for the detailed SQL scripts.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-` file in the repository for the detailed SQL scripts.
 
 
